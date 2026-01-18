@@ -1,4 +1,4 @@
-<img src="relative/path/to/Breast_Cancer_data_Exploration.png" alt="Breast Cancer Data Exploration Banner">
+<img src="../images/Breast_Cancer_data_Exploration.png" alt="Breast Cancer Data Exploration Banner">
 # Breast Cancer Data Analysis 
 
 ## Project Overview
