@@ -17,12 +17,12 @@ This project focuses on analyzing breast cancer data to uncover insights related
 
 ## 🛠️ Tools & Technologies
 **Programming Language:** Python 🐍
-**Libraries:**
+### **Libraries:**
 - Pandas (Data manipulation)
 - Matplotlib and Seaborn (Data visualization)
 - NumPy (Numerical operations)
-**Environment:** Jupyer Notebook for development and visualization.
-**Copilot:** Used for trouble shooting.
+### **Environment:** Jupyer Notebook for development and visualization.
+### **Copilot:** Used for trouble shooting.
 
 
 ---
